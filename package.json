@@ -1,0 +1,8 @@
+{
+  "name": "luciano",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lourencorizzottozup/luciano.git",
+  "author": "lourenco <lourencorizzotto@gmail.com>",
+  "license": "MIT"
+}
